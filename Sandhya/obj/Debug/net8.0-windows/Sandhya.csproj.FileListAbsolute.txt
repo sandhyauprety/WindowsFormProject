@@ -1,0 +1,14 @@
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\bin\Debug\net8.0-windows\Sandhya.exe
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\bin\Debug\net8.0-windows\Sandhya.deps.json
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\bin\Debug\net8.0-windows\Sandhya.runtimeconfig.json
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\bin\Debug\net8.0-windows\Sandhya.dll
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\bin\Debug\net8.0-windows\Sandhya.pdb
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\Sandhya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\Sandhya.AssemblyInfoInputs.cache
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\Sandhya.AssemblyInfo.cs
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\Sandhya.csproj.CoreCompileInputs.cache
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\Sandhya.dll
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\refint\Sandhya.dll
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\Sandhya.pdb
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\Sandhya.genruntimeconfig.cache
+C:\Users\sandh\RiderProjects\Sandhya\Sandhya\obj\Debug\net8.0-windows\ref\Sandhya.dll
